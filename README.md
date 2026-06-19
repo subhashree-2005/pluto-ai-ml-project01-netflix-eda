@@ -1,7 +1,3 @@
-1. Click "Add file" → "Create new file"
-2. Name it: README.md
-3. Paste this content:
-
 # Netflix EDA - Pluto Academy AI/ML Internship Project 01
 
 **Author:** Subhashree Aich  
